@@ -4,6 +4,7 @@
 |Day|Problem|Progress|Q1_time|Q2_time|
 |:---:|:---:|:---:|:---:|:---:|
 |01|[:star:](https://adventofcode.com/2024/day/1)|[:bell:](./Python/D1_1.py) [:gift:](./Python/D1_2.py)|7.415e-04s|9.065e-04s|
+|02|[:star:](https://adventofcode.com/2024/day/2)|[:bell:](./Python/D2_1.py) [:gift:](./Python/D2_2.py)|1.051e-02s|6.406e-02s|
 
 -----------------------------
 
