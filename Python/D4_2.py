@@ -17,7 +17,7 @@ def main(DATA_INPUT):
                 word_1 = raw_data[i-1][j-1] + letter + raw_data[i+1][j+1]
                 word_2 = raw_data[i-1][j+1] + letter + raw_data[i+1][j-1]
                 if (word_1 == word_2 or word_1 == word_2[::-1]) and \
-                    word_2 in search_words and word_2 in search_words:
+                    word_2 in search_words:
                     xmas_count += 1
     
     print(f'Time taken: {(time.time() - start_time):.3e}s')
