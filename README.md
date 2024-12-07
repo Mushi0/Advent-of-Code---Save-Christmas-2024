@@ -8,6 +8,7 @@
 |03|[:star:](https://adventofcode.com/2024/day/3)|[:bell:](./Python/D3_1.py) [:gift:](./Python/D3_2.py)|4.668e-04s|9.749e-04s|
 |04|[:star:](https://adventofcode.com/2024/day/4)|[:bell:](./Python/D4_1.py) [:gift:](./Python/D4_2.py)|3.946e-02s|1.678e-02s|
 |05|[:star:](https://adventofcode.com/2024/day/5)|[:bell:](./Python/D5_1.py) [:gift:](./Python/D5_2.py)|2.131e-02s|3.544e-02s|
+|06|[:star:](https://adventofcode.com/2024/day/6)|[:bell:](./Python/D6_1.py) [:gift:](./Python/D6_2.py)|1.864e-03s|2.758e+01s|
 
 -----------------------------
 
