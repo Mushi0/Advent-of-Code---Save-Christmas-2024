@@ -12,7 +12,10 @@
 |07|[:star:](https://adventofcode.com/2024/day/7)|[:bell:](./Python/D7_1.py) [:gift:](./Python/D7_2.py)|8.839e-02s|6.917e+00s|
 |08|[:star:](https://adventofcode.com/2024/day/8)|[:bell:](./Python/D8_1.py) [:gift:](./Python/D8_2.py)|5.763e-04s|1.341e-03s|
 |09|[:star:](https://adventofcode.com/2024/day/9)|[:bell:](./Python/D9_1.py) [:gift:](./Python/D9_2.py)|1.263e-02s|3.426e+00s|
+|10|[:star:](https://adventofcode.com/2024/day/10)|[:bell:](./Python/D10_1.py) [:gift:](./Python/D10_2.py)|3.193e-03|2.633e-01s|
 
 -----------------------------
 
 [^1]: :star:: link to the problem page; :bell:: link to the first problem solution; :gift:: link to the second problem solution. 
+
+2.437e-02s
